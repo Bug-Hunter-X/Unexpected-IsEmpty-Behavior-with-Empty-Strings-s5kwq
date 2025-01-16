@@ -1,0 +1,1 @@
+This repository demonstrates an uncommon VBScript bug related to the IsEmpty function's handling of empty strings.  The bug.vbs file shows the problematic behavior, and bugSolution.vbs provides a solution using a more robust check. This is important because relying solely on IsEmpty for empty string detection can lead to unexpected program behavior and errors.
